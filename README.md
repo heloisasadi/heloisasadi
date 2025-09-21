@@ -9,5 +9,6 @@ Tenho 18 anos, sou de Goiânia e sou apaixonada por tecnologias e progamação, 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-📚 Tenho trabalhado e estudado com Java e HTML , mas também gosto de me aventurar no CSS.
-☕ só acordo com café, adoro sair (mas sou meia caseira também ) e faço piadas ruins com certa frequência.
+- 📚 Tenho trabalhado e estudado com Java e HTML , mas também gosto de me aventurar no CSS.
+- ☕ só acordo com café, adoro sair (mas sou meia caseira também ) e faço piadas ruins com certa frequência.
+  
