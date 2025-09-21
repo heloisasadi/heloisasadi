@@ -16,4 +16,4 @@ Tenho 18 anos, sou de Goiânia e sou apaixonada por tecnologias e progamação, 
   
 <img width="2000" height="2000" alt="octocat-1758472459306" src="https://github.com/user-attachments/assets/ff5230b6-dccc-4761-96f4-e8d970cb8221" />
 
-![Snake animation](//https://github.com/heloisasadi/blob/output/github-contribution-grid-snake.svg)
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
